@@ -4,9 +4,15 @@ This is advanced caluclator for c++ developers. It using console for working, bu
 ### Actions:
 
 "+" plus (example (5+3) return 8)
+
 "-" minus (example (5-3) return 2)
+
 "*" multiply (example (5*3) return 15)
+
 "/' divide (example (5/3) return 1.66666)
+
 "^" pow (example (5^3) return 125)
+
 "%" remainder of division (example (5%3) return 2)
+
 "^" integer division (example (5:3) return 1)
