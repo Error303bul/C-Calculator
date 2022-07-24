@@ -123,11 +123,6 @@ string doTask(string Task) {
 }
 
 int main() {
-  print("          Welcome to Advanced calculator");
-  print("          current version is 0.2");
-  print("          The calculator still contains bugs");
-  print("          Always start and end a task with parentheses!");
-  print("Example: (9-(67*0.1))");
   while (true) {
     print("Enter task");
     cin >> task;
